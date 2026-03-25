@@ -103,7 +103,7 @@ Six new features were derived from the raw data to improve model signal — incl
 total_extras (sum of all add-on selections), booking_urgency (bucketed purchase lead
 time), and binary flags for trip type, sales channel, and weekend departures.
 _______________________________________________________________________________________
-Results — 5-Fold Cross-Validation
+### Results — 5-Fold Cross-Validation
 
 Metric	Score
 
